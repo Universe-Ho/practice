@@ -1,0 +1,42 @@
+h1 {
+    
+    font-size: 64px;
+    color: hotpink;
+    background-color: antiquewhite;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+   text-align: center; 
+}
+a {
+    text-decoration: none;
+    color: green;
+}
+
+.acenter {
+    text-align: center;
+}
+
+.font1 {
+    font-family: 'Tiro Devanagari Hindi', serif;
+    font-weight: 300;
+}
+
+@font-face {
+    src: url(font/GmarketSansBold.otf);
+    font-family: gsBold;
+}
+
+.font2 {
+    font-family: gsBold;
+    font-size: 30px;
+    
+}

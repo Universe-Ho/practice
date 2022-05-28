@@ -1,0 +1,30 @@
+#logo-type {
+    width: 165px;
+    height: 58px;
+    margin-top: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#menu-type {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+#menu-type a {
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: helvetica, arial, sans-serif;
+    color: #58595B;
+}
+
+#picture-type {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 90%;
+}
